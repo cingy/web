@@ -1,2 +1,2 @@
 # web
-Web page using GITHUb pages
+Web page using GITHub pages
